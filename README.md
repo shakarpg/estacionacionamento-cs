@@ -18,7 +18,7 @@ Este é um projeto de console em C# desenvolvido como parte do desafio de fundam
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/EstacionamentoDIO.git
+   git clone https://github.com/seuusuario/estacionamento-cs.git
    ```
 
 2. Abra a pasta do projeto no Visual Studio ou VS Code.
@@ -36,5 +36,4 @@ Este projeto foi criado para praticar:
 - Loops e menus interativos
 - Entrada e saída de dados no console
 
----
-Feito com ❤️ para o desafio da DIO!
+
